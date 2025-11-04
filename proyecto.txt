@@ -1,2 +1,5 @@
 Proyecto de clase polentera.
 Integrantes:
+-Ramiro Grasastegui
+
+-Valentin Palta
